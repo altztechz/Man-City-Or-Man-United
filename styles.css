@@ -16,7 +16,7 @@ body {
 }
 
 .container{
-    width: 600px; /* Increased the width for more space */
+    width: 600px;
     background: #111;
     display: flex;
     justify-content: center;
@@ -33,7 +33,7 @@ body {
 
 .container .progress-box{
     width: 100%;
-    height: 100px; /* Increased the height for more space */
+    height: 100px;
     margin: 12px 0;
     border: 2px solid rgba(255,255,255,0.2);
     padding: 10px 18px;
@@ -68,7 +68,7 @@ body {
 
 .progress-box .progress-bar{
     width: 100%;
-    height: 15px; /* Increased the height of the progress bar */
+    height: 15px;
     position: relative;
     background: #222;
     box-shadow: inset 0 8px 60px rgba(0,0,0,.1),
@@ -79,7 +79,7 @@ body {
 }
 
 #mancity .progress-bar span{
-    height: 100%; /* Adjusted height to 100% */
+    height: 100%;
     background: #00fffb;
     position: absolute;
     top: 50%;
@@ -90,7 +90,7 @@ body {
 }
 
 #manutd .progress-bar span{
-    height: 100%; /* Adjusted height to 100% */
+    height: 100%;
     background: #ff0000;
     position: absolute;
     top: 50%;
