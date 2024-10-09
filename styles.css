@@ -37,10 +37,9 @@ body {
 
 .maintenance-text {
     color: #fff;
-    text-align: center;
     font-size: 18px;
     font-weight: bold;
-    flex-grow: 1;
+    margin: 20px 0;
 }
 
 .readme-button {
