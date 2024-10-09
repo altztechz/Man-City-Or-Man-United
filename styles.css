@@ -20,11 +20,12 @@ body {
     background: #111;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column;
     border-radius: 12px;
     padding: 30px 40px;
     position: relative;
+    text-align: center;
 }
 
 .maintenance-image {
