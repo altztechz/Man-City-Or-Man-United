@@ -1,12 +1,14 @@
 # Man City or Man United?
 
-A question that is asked by many, (mainly in England), which football team is better, Man City with Erling Haaland and Jackie Grealish. Or, Man United with Rashford, and of course Antony 🐐.
-So, what are you waiting for? Cast your vote!
+As of now, this project has been facing different errors, as I need to find a reliable server-side JS for this website that is free, I will sadly have to retire this website.
 
-PS: I made it so if you refresh, you can still vote :))))).
+The Total Statistics:
 
-PS PS: Thanks to this video: https://www.youtube.com/watch?v=JbB7BL95CSw&list=PLSWAQkoO5urjYAfjgZ8CQTc8WFHvsjmBG&index=35&ab_channel=TeenageProgrammer, which really helped me create this project. 
-Please go subscribe to him because without him this wouldn't be possible! I also did use some A.I, which is why I removed the comments. I am not ashamed about it, owning up is the best thing. So, don't be alarmed, and I only used A.I for some help with some resizing/server issues :)
+Man United: 172 Votes: 99%
+Man City: 1 Vote: 1%
 
-His Channel:
-https://www.youtube.com/@teenage-programmer
+Total Votes: 173
+
+This website will likely never change back to its original form, so as of now I have left out a maintenance sign.
+
+Thanks - AltzTechz
