@@ -20,10 +20,11 @@ body {
     background: #111;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     border-radius: 12px;
     padding: 30px 40px;
+    position: relative;
 }
 
 .maintenance-image {
@@ -36,5 +37,25 @@ body {
 .maintenance-text {
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    flex-grow: 1;
+}
+
+.readme-button {
+    background-color: #111;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.readme-button:hover {
+    background-color: #222;
 }
