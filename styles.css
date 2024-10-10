@@ -49,7 +49,7 @@ body {
     border: none;
     border-radius: 8px;
     text-decoration: none;
-    position: absolute;
+    position: fixed;
     bottom: 20px;
     right: 20px;
     font-weight: bold;
